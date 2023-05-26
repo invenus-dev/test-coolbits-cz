@@ -1,0 +1,8 @@
+body {
+  font-family: "Noto Sans Mono", sans-serif;
+}
+
+main {
+  max-width: 40rem;
+  margin: 5rem auto;
+}
